@@ -20,3 +20,10 @@ A demo dataset is provided in `data/demo_data.rds`.
 
 ## Reproducibility
 All major figures in the manuscript can be reproduced using the provided scripts.
+
+
+The file sce.all_int_2.1singlet.qs2 can be accessed at https://doi.org/10.5281/zenodo.19206091
+        
+        
+        
+        
