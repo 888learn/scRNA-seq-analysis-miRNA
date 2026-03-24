@@ -16,13 +16,13 @@ Install required packages from CRAN/Bioconductor.
 Run scripts in the `code/` folder step by step.
 
 ## Demo
-A demo dataset is provided in `data/demo_data.rds`.
+No separate demo dataset is provided. The full dataset (2.1GB) is available at Zenodo DOI: 10.5281/zenodo.19206091. See Instructions for Use for how to run the analysis.
 
 ## Reproducibility
 All major figures in the manuscript can be reproduced using the provided scripts.
 
 
-The file sce.all_int_2.1singlet.qs2 can be accessed at https://doi.org/10.5281/zenodo.19206091
+
         
         
         
